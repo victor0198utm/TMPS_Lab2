@@ -4,7 +4,7 @@ import Decorator.abstractions.IOptions;
 
 public class LuxuryOptions extends Decorator
 {
-    private final String standardOptions = "LIDARs: front, front and back\n" +
+    private final String luxuryOptions = "LIDARs: front, front and back\n" +
             "Automation level: drive assist, autopilot";
 
     public LuxuryOptions(IOptions component) {
@@ -15,6 +15,6 @@ public class LuxuryOptions extends Decorator
     public void optionsList()
     {
         this.component.optionsList();
-        System.out.println(standardOptions);
+        System.out.println(luxuryOptions);
     }
 }
