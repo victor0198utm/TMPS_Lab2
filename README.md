@@ -1,4 +1,4 @@
-# Creational Design Patterns
+# Structural Design Patterns
 
 
 ## Author: Caragiu Victor
@@ -7,9 +7,9 @@
 
 ## Objectives:
 
-* Get familiar with the Creational DPs;
+* Get familiar with the Structural DPs;
 * Choose a specific domain;
-* Implement at least 3 CDPs for the specific domain;
+* Implement at least 3 SDPs for the specific domain;
 
 
 ## Used Design Patterns: 
